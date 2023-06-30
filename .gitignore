@@ -7,3 +7,4 @@ wandb/
 submission.csv
 model/
 sciml.zip
+models/
